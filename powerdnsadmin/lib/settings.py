@@ -216,6 +216,7 @@ class AppSettings(object):
             'DNAME': False,
             'DS': False,
             'HINFO': False,
+            'HTTPS': False,
             'KEY': False,
             'LOC': True,
             'LUA': False,
